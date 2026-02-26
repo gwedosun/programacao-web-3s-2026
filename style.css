@@ -1,0 +1,67 @@
+body {
+    background-color: #ffedd8;
+    font-family: Helvetica;
+}   
+  
+
+p {
+    color: #000000;
+    font-size: 17px;
+    padding-left: 40px;
+    padding-right: 40px;
+    text-align: justify;
+}
+
+.subtitulo {
+    color: #ff9531;
+    text-align: center;
+    padding-top: 100px;
+    font-family: 'Betania Patmos', cursive;
+    font-size: 20px;
+}
+
+h1 {
+    font-family: 'Betania Patmos', cursive;
+    background-color: #ff9531;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 100;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+}
+
+h2 {
+    font-family: 'Betania Patmos', cursive;
+    color: #ff9531;
+    padding-left: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: left;
+    width: 100%;
+    /* position: fixed; */
+    top: 0;
+    left: 0;
+    z-index: 100;
+    /* box-shadow: 0 2px 5px rgba(0,0,0,0.2); */
+}
+
+.lead {
+    background: #ffe3c2;
+    background-image: none;
+    text-align: justify;
+    font-size: 17px;
+    color: #000000;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border: 1px solid #fff2e3;
+    border-radius: 20px;
+}
+
+/* BOTOES - CODIGO EMPRESTADO */
